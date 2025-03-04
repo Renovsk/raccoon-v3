@@ -55,7 +55,7 @@ def main():
                     print(info)
                     if not protected:
                         with open('ips.txt', 'a+', encoding='utf-8') as i: 
-                            i.write(f'\n─────────────────────────────────────────\nDomain: {ip}\nIP: {raw}\nPlayers: {players}\nProtected?: {protected} ({protype if protype != "" else raw})')
+                            i.write(f'\n─────────────────────────────────────────\nDomain: {ip}\nIP: {raw}\nPlayers: {players}\nProtected?: {protected} ({protype if protype != "" else raw})\nVersion: ({ver[:20]})')
                         with open('raw.txt', 'a+', encoding='utf-8') as gg: 
                             gg.write(f'{raw}\n')
             
