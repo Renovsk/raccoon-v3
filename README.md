@@ -13,5 +13,5 @@
 
 ## CLI
 <h1>
-  <img src="https://zedacat.confusing.wtf/r/eD6qYQ.png" alt="product" style="width:90%; max-width:600px;"/>
+  <img src="https://zedacat.confusing.wtf/r/eD6qYQ.png" alt="product" style="width:100%; max-width:600px;"/>
 </h1>
