@@ -2,10 +2,10 @@
 Clean Minecraft scanner with Threading
 
 # Packages
-requests
-threading (standard library)
-re        (standard library)
-os        (standard library)
+- requests
+- threading (standard library)
+- re        (standard library)
+- os        (standard library)
 
 # Features
 Clean CLI
