@@ -13,5 +13,5 @@
 
 ## CLI
 <h1>
-  <img src="https://neko-is.confusing.wtf/r/pg3iCp.png" alt="product" style="width:70%; max-width:600px;"/>
+  <img src="https://zedacat.confusing.wtf/r/eD6qYQ.png" alt="product" style="width:70%; max-width:600px;"/>
 </h1>
