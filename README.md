@@ -8,9 +8,9 @@ Clean Minecraft scanner with Threading
 - os        (standard library)
 
 # Features
-Clean CLI
-Fetches RANDOM servers
-Very fast with threading (just change threading range if not fast enough for you)
+- Clean CLI
+- Fetches RANDOM servers
+- Very fast with threading (just change threading range if not fast enough for you)
 
 # CLI
 <h1>
