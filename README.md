@@ -10,6 +10,7 @@
 - Clean CLI
 - Fetches RANDOM servers
 - Very fast with threading (just change threading range if not fast enough for you)
+- Proxy support soon
 
 ## CLI
 <h1>
