@@ -47,7 +47,7 @@ def main():
                 if server['players']['online'] and raw not in open('ips.txt').read() and 'velocity' not in ver.lower():
                     info = (
                         f"{c}[{w}+{c}] {w}Found Server! │ "
-                        f"{c}IP:{w} {str(ip).ljust(50)} │ "
+                        f"{c}IP:{w} {str(raw).ljust(15)} │ "
                         f"{c}Players:{w} {str(players[:13]).ljust(13)} │ "
                         f"{c}Protected?:{w} {str(protected).ljust(5)} ({str(protype + ')' if protype != '' else raw + ')').ljust(17)} │ "
                         f"{c}Version: {w}({ver[:20]})"
